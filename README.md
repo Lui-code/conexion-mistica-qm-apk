@@ -45,7 +45,7 @@ Fusionar el lenguaje técnico de la física cuántica con la sabiduría simbóli
 ## 🔄 Alternativa PWA
 
 Si tu dispositivo no permite la instalación directa, puedes acceder a la versión PWA desde:  
-👉 [https://tusitio.com/pwa](https://tusitio.com/pwa)
+👉 [https://www.misticaconluisdaniel.com/]
 
 ---
 
